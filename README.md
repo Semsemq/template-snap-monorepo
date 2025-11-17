@@ -50,4 +50,4 @@ packages with scripts, you can run `yarn allow-scripts auto`, and enable the
 script in the `lavamoat.allowScripts` section of `package.json`.
 
 See the documentation for [@lavamoat/allow-scripts](https://github.com/LavaMoat/LavaMoat/tree/main/packages/allow-scripts)
-for more information.
+for more information
